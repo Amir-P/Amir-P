@@ -19,7 +19,8 @@ I'm Amir Panahandeh, a software engineer and data scientist.
 
 ### Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-P&theme=radical)
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5204833&layout=compact&theme=dark)](https://stackoverflow.com/users/5204833/amir-p)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Amir-P&show_icons=true&theme=radical)
 
 ### Contact
